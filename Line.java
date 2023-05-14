@@ -1,5 +1,5 @@
 package RFP283.Assignments.Day2.LineCompare;
-
+//UC2
 public class Line {
     Point pt1, pt2;
     float length;
