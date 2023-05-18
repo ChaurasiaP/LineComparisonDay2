@@ -1,7 +1,7 @@
 package RFP283.Assignments.Day2.LineCompare;
 
 import java.util.Scanner;
-//UC3
+//UC4
 public class Main {
 
     public static void main(String[] args) {
